@@ -9,8 +9,8 @@ Webserver (ex: httpd/apache)
 installation:
 
 1. create a mysql database named 'remoat' and import remoat.sql database file.
-2. create database user and password and set access privileges.
-3. set database username and password in db.php file.
+2. create database user, password and set access privileges.
+3. set database hostname, username and password in db.php file.
 4. configure and start apache web server
 5. place all the php files in the apache web directory (www or html).
 
